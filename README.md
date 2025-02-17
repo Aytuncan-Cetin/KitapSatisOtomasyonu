@@ -1,2 +1,1 @@
-# VTYS-KitapSatisOtomasyonu
-Veri_Tabani_Yönetim_Sistemleri_Birinci_Proje
+#KitapSatisOtomasyonu
